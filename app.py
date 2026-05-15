@@ -12,7 +12,7 @@ from io import BytesIO
 st.set_page_config(
     page_title="Exploración de Datos", page_icon="📊")
 
-st.sidebar.image("img/inEDA26.png", caption="Dr. Jesus Alvarado-Huayhuaz")
+st.sidebar.image("https://raw.githubusercontent.com/inefable12/eda26/main/img/inEDA26.png", caption="Dr. Jesus Alvarado-Huayhuaz")
 
 st.title("Ciencia de Datos")
 st.write("Analiza, limpia y visualiza tus datos.")
